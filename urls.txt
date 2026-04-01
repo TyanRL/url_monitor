@@ -1,0 +1,2 @@
+https://telegram-bot-xmj4.onrender.com/health
+https://renderreverseproxy.onrender.com/healthz

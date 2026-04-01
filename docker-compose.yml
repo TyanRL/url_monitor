@@ -1,0 +1,6 @@
+services:
+  url-monitor:
+    build: .
+    container_name: url-monitor
+    restart: unless-stopped
+
